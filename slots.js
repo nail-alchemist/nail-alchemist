@@ -1,5 +1,5 @@
 window.NA_SLOTS = {
-  "stand": "22.10.2026 22:45",
+  "stand": "22.10.2026 23:00",
   "slots": [
     {
       "iso": "2026-10-30T09:00",
@@ -158,6 +158,12 @@ window.NA_SLOTS = {
       "wochentag": "Montag"
     },
     {
+      "iso": "2026-11-17T09:00",
+      "datum": "17.11.2026",
+      "zeit": "09:00",
+      "wochentag": "Dienstag"
+    },
+    {
       "iso": "2026-11-17T14:00",
       "datum": "17.11.2026",
       "zeit": "14:00",
@@ -168,6 +174,90 @@ window.NA_SLOTS = {
       "datum": "17.11.2026",
       "zeit": "18:00",
       "wochentag": "Dienstag"
+    },
+    {
+      "iso": "2026-11-18T09:00",
+      "datum": "18.11.2026",
+      "zeit": "09:00",
+      "wochentag": "Mittwoch"
+    },
+    {
+      "iso": "2026-11-18T14:00",
+      "datum": "18.11.2026",
+      "zeit": "14:00",
+      "wochentag": "Mittwoch"
+    },
+    {
+      "iso": "2026-11-25T14:00",
+      "datum": "25.11.2026",
+      "zeit": "14:00",
+      "wochentag": "Mittwoch"
+    },
+    {
+      "iso": "2026-11-25T18:00",
+      "datum": "25.11.2026",
+      "zeit": "18:00",
+      "wochentag": "Mittwoch"
+    },
+    {
+      "iso": "2026-11-26T09:00",
+      "datum": "26.11.2026",
+      "zeit": "09:00",
+      "wochentag": "Donnerstag"
+    },
+    {
+      "iso": "2026-11-26T14:00",
+      "datum": "26.11.2026",
+      "zeit": "14:00",
+      "wochentag": "Donnerstag"
+    },
+    {
+      "iso": "2026-11-26T18:00",
+      "datum": "26.11.2026",
+      "zeit": "18:00",
+      "wochentag": "Donnerstag"
+    },
+    {
+      "iso": "2026-11-27T09:00",
+      "datum": "27.11.2026",
+      "zeit": "09:00",
+      "wochentag": "Freitag"
+    },
+    {
+      "iso": "2026-11-27T14:00",
+      "datum": "27.11.2026",
+      "zeit": "14:00",
+      "wochentag": "Freitag"
+    },
+    {
+      "iso": "2026-11-27T18:00",
+      "datum": "27.11.2026",
+      "zeit": "18:00",
+      "wochentag": "Freitag"
+    },
+    {
+      "iso": "2026-11-28T10:00",
+      "datum": "28.11.2026",
+      "zeit": "10:00",
+      "wochentag": "Samstag"
+    },
+    {
+      "iso": "2026-11-30T09:00",
+      "datum": "30.11.2026",
+      "zeit": "09:00",
+      "wochentag": "Montag"
+    },
+    {
+      "iso": "2026-11-30T14:00",
+      "datum": "30.11.2026",
+      "zeit": "14:00",
+      "wochentag": "Montag"
+    },
+    {
+      "iso": "2026-11-30T18:00",
+      "datum": "30.11.2026",
+      "zeit": "18:00",
+      "wochentag": "Montag"
     }
   ]
 };
