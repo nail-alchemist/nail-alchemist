@@ -1,5 +1,5 @@
 window.NA_SLOTS = {
-  "stand": "24.10.2026 16:15",
+  "stand": "25.10.2026 10:15",
   "slots": [
     {
       "iso": "2026-10-30T09:00",
@@ -180,6 +180,24 @@ window.NA_SLOTS = {
       "datum": "18.11.2026",
       "zeit": "14:00",
       "wochentag": "Mittwoch"
+    },
+    {
+      "iso": "2026-11-18T18:00",
+      "datum": "18.11.2026",
+      "zeit": "18:00",
+      "wochentag": "Mittwoch"
+    },
+    {
+      "iso": "2026-11-19T09:00",
+      "datum": "19.11.2026",
+      "zeit": "09:00",
+      "wochentag": "Donnerstag"
+    },
+    {
+      "iso": "2026-11-19T14:00",
+      "datum": "19.11.2026",
+      "zeit": "14:00",
+      "wochentag": "Donnerstag"
     },
     {
       "iso": "2026-11-25T14:00",
